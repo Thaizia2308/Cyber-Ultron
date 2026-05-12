@@ -119,3 +119,24 @@ cyber-ultron/
 **passlib/jose errors** — Run: `pip install python-jose passlib bcrypt`
 
 **Port in use** — Use a different port: `python -m uvicorn backend.main:app --port 8001`
+
+
+
+
+## 👨‍💻 Developer
+
+Developed by THAIZIA
+
+- B.Tech CSE Student
+- Cybersecurity & AI Enthusiast
+- GitHub: https://github.com/Thaizia2308
+
+
+## 🚀 Future Enhancements
+
+- Real-time WebSocket monitoring
+- Docker deployment
+- Role-based access control
+- Email/SMS alerts
+- SIEM integration
+- Deep learning anomaly detection
